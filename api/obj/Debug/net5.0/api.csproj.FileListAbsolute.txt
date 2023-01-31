@@ -1,0 +1,87 @@
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\appsettings.json
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\api.exe
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\api.deps.json
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\api.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\api.runtimeconfig.dev.json
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\api.dll
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\ref\api.dll
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\api.pdb
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\scopedcss\bundle\api.styles.css
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\staticwebassets\api.StaticWebAssets.Manifest.cache
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.dll
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\ref\api.dll
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.pdb
+C:\Users\lucas\OneDrive\Documents\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.genruntimeconfig.cache
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.AssemblyInfo.cs
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\appsettings.json
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\api.exe
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\api.deps.json
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\api.runtimeconfig.json
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\api.runtimeconfig.dev.json
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\api.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\api.pdb
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Application.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Core.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Data.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Application.pdb
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Core.pdb
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\bin\Debug\net5.0\Data.pdb
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\scopedcss\bundle\api.styles.css
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\staticwebassets\api.StaticWebAssets.Manifest.cache
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\staticwebassets\api.StaticWebAssets.Pack.cache
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\staticwebassets\msbuild.api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\staticwebassets\msbuild.build.api.props
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.api.props
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.api.props
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.csproj.CopyComplete
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\refint\api.dll
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.pdb
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\api.genruntimeconfig.cache
+C:\Users\lucas\Documents\Backup lenovo\Projetos\Lista de usuarios\api\obj\Debug\net5.0\ref\api.dll
